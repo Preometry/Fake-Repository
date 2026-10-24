@@ -1,4 +1,4 @@
-@"
+
 #!/usr/bin/env python3
 """
 quinn_leech_bridge_audit.py
